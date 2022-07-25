@@ -1,2 +1,1 @@
-spring-cloud分布式配置文件：
-    
+spring-cloud分布式配置文件
